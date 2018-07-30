@@ -1,0 +1,8 @@
+Symlinking /home/fapsros/c_s_u/devel/lib/pkgconfig/tf_demo.pc
+Symlinking /home/fapsros/c_s_u/devel/lib/tf_demo/Quaternion2Euler
+Symlinking /home/fapsros/c_s_u/devel/lib/tf_demo/tf_broadcaster
+Symlinking /home/fapsros/c_s_u/devel/lib/tf_demo/Euler2Quaternion
+Symlinking /home/fapsros/c_s_u/devel/lib/tf_demo/coordinate_transformation
+Symlinking /home/fapsros/c_s_u/devel/lib/tf_demo/tf_listerner
+Symlinking /home/fapsros/c_s_u/devel/share/tf_demo/cmake/tf_demoConfig.cmake
+Symlinking /home/fapsros/c_s_u/devel/share/tf_demo/cmake/tf_demoConfig-version.cmake

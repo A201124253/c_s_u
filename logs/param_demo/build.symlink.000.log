@@ -1,0 +1,4 @@
+Symlinking /home/fapsros/c_s_u/devel/lib/pkgconfig/param_demo.pc
+Symlinking /home/fapsros/c_s_u/devel/lib/param_demo/param_demo
+Symlinking /home/fapsros/c_s_u/devel/share/param_demo/cmake/param_demoConfig.cmake
+Symlinking /home/fapsros/c_s_u/devel/share/param_demo/cmake/param_demoConfig-version.cmake

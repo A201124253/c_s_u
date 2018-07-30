@@ -1,0 +1,8 @@
+prefix=/home/fapsros/c_s_u/devel/.private/msgs_demo
+
+Name: msgs_demo
+Description: Description of msgs_demo
+Version: 0.0.1
+Cflags: -I/home/fapsros/c_s_u/devel/.private/msgs_demo/include
+Libs: -L/home/fapsros/c_s_u/devel/.private/msgs_demo/lib 
+Requires: message_runtime std_msgs nav_msgs sensor_msgs actionlib_msgs std_srvs

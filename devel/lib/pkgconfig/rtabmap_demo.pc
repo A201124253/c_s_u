@@ -1,0 +1,1 @@
+/home/fapsros/c_s_u/devel/.private/rtabmap_demo/lib/pkgconfig/rtabmap_demo.pc

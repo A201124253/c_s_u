@@ -1,0 +1,6 @@
+devel_space: /home/fapsros/c_s_u/devel
+install: false
+install_space: /home/fapsros/c_s_u/install
+profile: default
+source_space: /home/fapsros/c_s_u/src
+workspace: /home/fapsros/c_s_u

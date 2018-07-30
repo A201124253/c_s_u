@@ -1,0 +1,4 @@
+ROS-Academy-for-Beginners/rtabmap_demo
+/home/fapsros/c_s_u/devel/.private/rtabmap_demo/lib/pkgconfig/rtabmap_demo.pc /home/fapsros/c_s_u/devel/lib/pkgconfig/rtabmap_demo.pc
+/home/fapsros/c_s_u/devel/.private/rtabmap_demo/share/rtabmap_demo/cmake/rtabmap_demoConfig.cmake /home/fapsros/c_s_u/devel/share/rtabmap_demo/cmake/rtabmap_demoConfig.cmake
+/home/fapsros/c_s_u/devel/.private/rtabmap_demo/share/rtabmap_demo/cmake/rtabmap_demoConfig-version.cmake /home/fapsros/c_s_u/devel/share/rtabmap_demo/cmake/rtabmap_demoConfig-version.cmake

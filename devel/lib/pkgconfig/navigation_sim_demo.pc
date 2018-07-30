@@ -1,0 +1,1 @@
+/home/fapsros/c_s_u/devel/.private/navigation_sim_demo/lib/pkgconfig/navigation_sim_demo.pc

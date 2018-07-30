@@ -1,0 +1,1 @@
+/home/fapsros/c_s_u/devel/.private/action_demo/share/gennodejs/ros/action_demo/msg/_index.js

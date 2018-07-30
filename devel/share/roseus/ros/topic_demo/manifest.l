@@ -1,0 +1,1 @@
+/home/fapsros/c_s_u/devel/.private/topic_demo/share/roseus/ros/topic_demo/manifest.l

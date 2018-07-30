@@ -1,0 +1,1 @@
+/home/fapsros/c_s_u/devel/.private/service_demo/share/gennodejs/ros/service_demo/srv/Greeting.js

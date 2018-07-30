@@ -1,0 +1,1 @@
+/home/fapsros/c_s_u/devel/.private/msgs_demo/share/msgs_demo/cmake/msgs_demoConfig-version.cmake
