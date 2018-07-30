@@ -1,0 +1,21 @@
+20180730
+1.启动模拟器
+	roslaunch robot_sim_demo robot_spawn.launch
+2.启动键盘控制
+	rosrun robot_sim_demo robot_keyboard_teleop.py
+3.启动激光雷达
+	rosrun image_view image_view image:=camera/rgb/image_raw	
+4.通讯方式
+	Topic:
+		话题通信，异步通信
+		publisher-subscriber
+		不需要得知对方的信息
+		一对多
+	数据格式为Message,这是一个类
+	Service:
+		双向通信，同步通信
+		请求-响应
+	Parameter Service:
+		参数服务器：维护一个字典（键值对）
+		rosparam设置参数
+	Actionlib:
